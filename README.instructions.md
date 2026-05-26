@@ -21,3 +21,5 @@ Versión en Español:
 - **Análisis Estadístico e Inferencial**: Modelado de probabilidad para predecir la saturación del servicio y pruebas de hipótesis para evaluar el impacto de factores externos (clima, estacionalidad).
 
 - **Stack Técnico**: Python | SQL (PostgreSQL) | SciPy (Stats) | Pandas | NumPy | Data Visualization.
+
+  <img width="589" height="350" alt="Impact_cond_clim" src="https://github.com/user-attachments/assets/03c0c491-3a5d-4a77-aa36-8d6e30c06dfc" />
