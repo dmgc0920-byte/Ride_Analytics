@@ -22,4 +22,5 @@ Versión en Español:
 
 - **Stack Técnico**: Python | SQL (PostgreSQL) | SciPy (Stats) | Pandas | NumPy | Data Visualization.
 
-  <img width="589" height="350" alt="Impact_cond_clim" src="https://github.com/user-attachments/assets/03c0c491-3a5d-4a77-aa36-8d6e30c06dfc" />
+<img width="713" height="630" alt="image" src="https://github.com/user-attachments/assets/ec6c9961-b4a7-46a7-b0b9-b094197579ed" />
+
