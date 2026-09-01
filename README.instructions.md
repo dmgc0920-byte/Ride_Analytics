@@ -1,26 +1,34 @@
-## Ride_Analytics
+###🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
+> **Statistical Analysis & Hypothesis Testing on Mobility Patterns**
 
-**Description**: > A data analytics platform designed to process large-scale urban mobility data for ride-sharing ecosystems. The project extracts actionable business intelligence by modeling consumer behavior, evaluating driver performance metrics, and uncovering complex spatiotemporal demand patterns.
+* **Situation:** A rideshare company entering the Chicago market required data-driven insights into passenger preferences and demand fluctuations under extreme conditions.
+* **Task:** Analyze competitor activity across the top 10 neighborhoods and statistically evaluate the impact of adverse weather on weekend trip frequencies.
+* **Action:**
+  * Executed an Exploratory Data Analysis (EDA) on high-density routes, focusing spatial analysis on the critical *Loop ➡️ Airport* corridor.
+  * Formulated and conducted two-sample **Hypothesis Testing (Student's t-test)** to determine statistically significant variations in travel duration during rainy Saturdays.
+* **Result:** Statistically validated that rainy weather significantly increases average travel times on Saturdays, providing actionable insights for dynamic pricing models and automated flight-delay warnings for passengers.
 
-**Project Highlights**:
+**🛠️ Tech Stack:** `Python` | `SciPy` | `Statsmodels` | `Seaborn` | `Hypothesis Testing`
 
-- **Data Engineering**: Advanced time-series preprocessing, data cleansing, and geographical feature alignment.
+---
 
-- **Statistical & Inferential Modeling**: Probability modeling to forecast transit patterns and rigorous hypothesis testing to measure the impact of external variables (weather, seasonality).
+***Versión en Español:***
+---
 
-- **Tech Stack**: Python | SQL (PostgreSQL) | SciPy (Stats) | Pandas | NumPy | Data Visualization.
+###🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
+> **Análisis Estadístico y Prueba de Hipótesis sobre Patrones de Movilidad**
 
-Versión en Español:
+* **Situación:** Una nueva empresa de viajes compartidos en Chicago requería comprender las preferencias de uso y la variación de la demanda frente a factores externos.
+* **Tarea:** Analizar la actividad de la competencia en los 10 principales barrios de la ciudad y probar estadísticamente el impacto del clima severo en la frecuencia de viajes los fines de semana.
+* **Acción:**
+  * Análisis Exploratorio de Datos (EDA) sobre rutas de alta concurrencia, focalizando el estudio en el trayecto *Loop ➡️ Aeropuerto*.
+  * Formulación y ejecución de una **prueba de hipótesis ($t$ de Student)** para determinar el impacto de condiciones meteorológicas adversas en la duración promedio de los viajes.
+* **Resultado:** Se demostró estadísticamente que la lluvia incrementa significativamente el tiempo de viaje los días sábado, derivando en recomendaciones operativas para la asignación de tarifas dinámicas y alertas preventivas para evitar pérdidas de vuelos.
 
-**Descripción**: > Plataforma de análisis de datos a gran escala aplicada a servicios de transporte compartido (ride-sharing). El proyecto procesa variables complejas de movilidad urbana para extraer inteligencia de negocio, modelar el comportamiento del usuario, evaluar el rendimiento operativo de los conductores y analizar patrones espacio-temporales de la demanda.
+**🛠️ Tecnologías:** `Python` | `SciPy` | `Statsmodels` | `Seaborn` | `Pruebas de Hipótesis`
 
-**Fases del Proyecto**:
+---
 
-- **Ingeniería de Datos**: Limpieza avanzada de series temporales y tratamiento de datos geográficos nulos.
+![alt text](Finalizacion_viajes.png)
 
-- **Análisis Estadístico e Inferencial**: Modelado de probabilidad para predecir la saturación del servicio y pruebas de hipótesis para evaluar el impacto de factores externos (clima, estacionalidad).
-
-- **Stack Técnico**: Python | SQL (PostgreSQL) | SciPy (Stats) | Pandas | NumPy | Data Visualization.
-
-<img width="713" height="630" alt="image" src="https://github.com/user-attachments/assets/ec6c9961-b4a7-46a7-b0b9-b094197579ed" />
-
+![alt text](Impacto_clima.png)
