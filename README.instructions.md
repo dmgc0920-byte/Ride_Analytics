@@ -1,4 +1,4 @@
-###🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
+### 🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
 > **Statistical Analysis & Hypothesis Testing on Mobility Patterns**
 
 * **Situation:** A rideshare company entering the Chicago market required data-driven insights into passenger preferences and demand fluctuations under extreme conditions.
@@ -15,7 +15,7 @@
 ***Versión en Español:***
 ---
 
-###🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
+### 🚕 [Ride Analytics (Chicago Shared Rides)]([./](https://github.com/dmgc0920-byte/Ride_Analytics/blob/main/Ride_Analytics.ipynb))
 > **Análisis Estadístico y Prueba de Hipótesis sobre Patrones de Movilidad**
 
 * **Situación:** Una nueva empresa de viajes compartidos en Chicago requería comprender las preferencias de uso y la variación de la demanda frente a factores externos.
